@@ -7,6 +7,10 @@
 
 ## Spécifiques
 
+## Seeed-Studio
+
+ * [Seeed-Studio-XIAO](https://www.seeedstudio.com/XIAO-c-1964.html)
+
 ### M5Stack
 
  * [Produits M5Stack](https://shop.m5stack.com/)
