@@ -9,12 +9,9 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 ## Spécifiques
 
 ## Adafruit
+
  * [Adafruit ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM - STEMMA QT](https://www.adafruit.com/product/5400)
  * [Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic](https://www.adafruit.com/product/5477)
-
-## Seeed-Studio
-
- * [Seeed-Studio-XIAO](https://www.seeedstudio.com/XIAO-c-1964.html)
 
 ### M5Stack
 
@@ -27,3 +24,7 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 
 # uPesy
  * [uPesy ESP32 Wroom DevKit v2](https://www.upesy.fr/products/upesy-esp32-wroom-devkit-board)
+
+## Seeed-Studio
+
+ * [Seeed-Studio-XIAO](https://www.seeedstudio.com/XIAO-c-1964.html)
