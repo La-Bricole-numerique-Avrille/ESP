@@ -24,3 +24,6 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
  * Logiciel de programmation: [M5Burner Win10 x64 v3.0](https://m5burner.m5stack.com/app/M5Burner-v3-beta-win-x64.zip)
  * UIFlow: [UIFlow Web IDE](https://flow.m5stack.com)
  * Dépôts Github: [M5Stack](https://github.com/m5stack)
+
+# uPesy
+ * [uPesy ESP32 Wroom DevKit v2](https://www.upesy.fr/products/upesy-esp32-wroom-devkit-board)
