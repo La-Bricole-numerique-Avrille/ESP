@@ -54,7 +54,8 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
     * [SparkFun ESP32 Qwiic Pro Mini](https://www.sparkfun.com/products/23386)
  
 ### WEMOS
-  * [Produits](https://www.wemos.cc/en/latest/index.html)
+  * [Produits WEMOS](https://lolin.aliexpress.com/store/1100907255)
+    * [Doc](https://www.wemos.cc/en/latest/index.html)
     * [Tutorials](https://www.wemos.cc/en/latest/tutorials/index.html)
      
 
