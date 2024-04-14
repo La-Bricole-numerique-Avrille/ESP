@@ -23,9 +23,11 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 
  * [Produits M5Stack](https://shop.m5stack.com/)
    * [Module M5StickC PLUS2](https://docs.m5stack.com/en/core/M5StickC%20PLUS2)
-     * Guide M5StickC:  [M5StickC-Kit-Guide-English](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/UIFlow-StickC-Book-English.pdf)
+     * Guide M5StickC: [M5StickC-Kit-Guide-English](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/UIFlow-StickC-Book-English.pdf)
+     * [M5StickC_PLUS2 Factory Test Firmware](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/M5StickC%20PLUS2/PLUS2%20Factory%20Firmware.exe)
    * [Module AtomS3 Dev Kit](https://docs.m5stack.com/en/core/AtomS3)
-     * [AtomS3 Quick Start](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/AtomS3/atoms3reduced%20(1).pdf)
+     * Guide AtomS3: [AtomS3 Quick Start](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/AtomS3/atoms3reduced%20(1).pdf)
+     * [AtomS3 Demo Easyloader](https://m5stack.oss-cn-shenzhen.aliyuncs.com/EasyLoader/ATOM/ATOMS3%20DEMO.exe)
    * Capteurs compatibles (câble type Grove): [m5-sensor](https://shop.m5stack.com/collections/m5-sensor)
  * Logiciel de programmation: [M5Burner Win10 x64 v3.0](https://m5burner.m5stack.com/app/M5Burner-v3-beta-win-x64.zip)
  * UIFlow: [UIFlow Web IDE](https://flow.m5stack.com)
