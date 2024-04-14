@@ -28,6 +28,7 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
    * [Module AtomS3 Dev Kit](https://docs.m5stack.com/en/core/AtomS3)
      * Guide AtomS3: [AtomS3 Quick Start](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/AtomS3/atoms3reduced%20(1).pdf)
      * [AtomS3 Demo Easyloader](https://m5stack.oss-cn-shenzhen.aliyuncs.com/EasyLoader/ATOM/ATOMS3%20DEMO.exe)
+     * [AtomS3 Arduino Library](https://github.com/m5stack/M5AtomS3)
    * Capteurs compatibles (câble type Grove): [m5-sensor](https://shop.m5stack.com/collections/m5-sensor)
  * Logiciel de programmation: [M5Burner Win10 x64 v3.0](https://m5burner.m5stack.com/app/M5Burner-v3-beta-win-x64.zip)
  * UIFlow: [UIFlow Web IDE](https://flow.m5stack.com)
