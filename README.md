@@ -15,6 +15,12 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
    * [Adafruit ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM - STEMMA QT](https://www.adafruit.com/product/5400)
    * [Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic](https://www.adafruit.com/product/5477)
    * [Adafruit QT Py ESP32-C3 WiFi Dev Board with STEMMA QT](https://www.adafruit.com/product/5405)
+  
+### DFRobot
+
+ * [Produits DFRobot](https://www.dfrobot.com/category-271.html)
+   * [Beetle ESP32 - C3](https://www.dfrobot.com/product-2566.html)
+   * [FireBeetle ESP32 IoT](https://www.dfrobot.com/product-1590.html)
 
 ### LILYGO
 
