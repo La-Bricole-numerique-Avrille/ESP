@@ -25,6 +25,7 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
    * [Module M5StickC PLUS2](https://docs.m5stack.com/en/core/M5StickC%20PLUS2)
      * Guide M5StickC:  [M5StickC-Kit-Guide-English](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/UIFlow-StickC-Book-English.pdf)
    * [Module AtomS3 Dev Kit](https://docs.m5stack.com/en/core/AtomS3)
+     * [AtomS3 Quick Start](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/core/AtomS3/atoms3reduced%20(1).pdf)
    * Capteurs compatibles (câble type Grove): [m5-sensor](https://shop.m5stack.com/collections/m5-sensor)
  * Logiciel de programmation: [M5Burner Win10 x64 v3.0](https://m5burner.m5stack.com/app/M5Burner-v3-beta-win-x64.zip)
  * UIFlow: [UIFlow Web IDE](https://flow.m5stack.com)
