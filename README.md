@@ -10,9 +10,11 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 ## Spécifiques
 
 ### Adafruit
- * Produits
+
+ * Produits Adafruit (connecteurs [STEMMA QT](https://learn.adafruit.com/introducing-adafruit-stemma-qt/what-is-stemma-qt))
    * [Adafruit ESP32 Feather V2 - 8MB Flash + 2 MB PSRAM - STEMMA QT](https://www.adafruit.com/product/5400)
    * [Adafruit ESP32-S3 Feather with 4MB Flash 2MB PSRAM - STEMMA QT / Qwiic](https://www.adafruit.com/product/5477)
+   * [Adafruit QT Py ESP32-C3 WiFi Dev Board with STEMMA QT](https://www.adafruit.com/product/5405)
 
 ### LILYGO
 
