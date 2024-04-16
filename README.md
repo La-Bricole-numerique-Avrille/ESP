@@ -30,6 +30,7 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 ### Makerfabs
 
 * [Produits Makerfabs MaTouch](https://www.makerfabs.com/open-hardware/maboards/matouch.html)
+  * [MaTouch_ESP32-S3 Round SPI TFT with Touch 1.28"](https://www.makerfabs.com/esp32-s3-round-spi-tft-with-touch-1-28-inch.html): ESP32-S3 1.28" round display with touch
   * [MaTouch 1.9“ TFT Breakout](https://www.makerfabs.com/matouch-1-9-inch-tft-breakout.html): ESP32-S3 with 1.9" LCD touch screen
 
 ### M5Stack
