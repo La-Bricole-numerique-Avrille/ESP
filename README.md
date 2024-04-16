@@ -27,6 +27,11 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
  * [Produits](https://www.lilygo.cc/collections/all)
    * [LILYGO T-Display-S3](https://www.lilygo.cc/products/t-display-s3): ESP32-S3 1.9 inch ST7789 LCD Display Touch Screen Development Board
 
+### Makerfabs
+
+* [Produits Makerfabs MaTouch](https://www.makerfabs.com/open-hardware/maboards/matouch.html)
+  * [MaTouch 1.9“ TFT Breakout](https://www.makerfabs.com/matouch-1-9-inch-tft-breakout.html): ESP32-S3 with 1.9" LCD touch screen
+
 ### M5Stack
 
  * [Produits M5Stack](https://shop.m5stack.com/)
