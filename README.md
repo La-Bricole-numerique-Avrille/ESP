@@ -7,6 +7,10 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
  * [Installer MicroPython sur sa carte ESP32](https://www.upesy.fr/blogs/tutorials/install-micropython-on-esp32-quickly-with-thonny-ide)
    * [Programmer l’ESP32 directement depuis l’Arduino IDE](https://www.upesy.fr/blogs/tutorials/install-esp32-on-arduino-ide-complete-guide)
 
+## Simulation
+
+ * [Wokwi - Online ESP32](https://wokwi.com/esp32) : Simulateur ESP32 en ligne
+
 ## Spécifiques
 
 ### Adafruit
