@@ -34,6 +34,7 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
 
  * [Produits](https://www.lilygo.cc/collections/all)
    * [LILYGO T-Display-S3](https://www.lilygo.cc/products/t-display-s3): ESP32-S3 1.9 inch ST7789 LCD Display Touch Screen Development Board
+   * [LILYGO T-Dongle](https://www.lilygo.cc/products/t-dongle-esp32-s2-1-14-inch-lcd-board): ESP32-S2 Development Board Wireless WIFI Module
 
 ### Makerfabs
 
