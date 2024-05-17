@@ -26,6 +26,10 @@ ESP est une série de microcontrôleurs de type système sur une puce (SoC) d'Es
    * [Beetle ESP32 - C3](https://www.dfrobot.com/product-2566.html)
    * [FireBeetle ESP32 IoT](https://www.dfrobot.com/product-1590.html)
 
+### Espressif
+
+ * [ESP32-S3-USB-OTG](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/user_guide.html): development board that focuses on USB-OTG function.
+
 ### LILYGO
 
  * [Produits](https://www.lilygo.cc/collections/all)
